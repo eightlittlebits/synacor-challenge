@@ -48,8 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="arch-spec" />
-    <None Include="challenge.bin">
+    <None Include="challenge\arch-spec" />
+    <None Include="challenge\challenge.bin">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
